@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Subhra✨
-- 👀 I’m interested in becoming Hokage!
-- 🌱 I’m currently learning the world of Development!
-- 💞️ I’m looking to collaborate on anything...
-- 📫 You can't reach me if you don't want!
+- 👀 On the way of becoming Hokage!
+- 🌱 Currently learning the world of Development!
+- 💞️ Looking to collaborate on anything...
+- 📫 You can reach me if you want!
 - 🙂Please don't bring me any Hearbreaks!
+- 🤞And She is Always "Special✨" for me .... Alwaysss ♾️ , so never judge ❌
 
 <!---
 dhundhun1111/dhundhun1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
