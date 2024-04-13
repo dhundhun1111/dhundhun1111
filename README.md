@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Django, React, Node.js, TensorFlow, Scikit-learn, Keras**
 
+- 💡 I'm interested in **Bioinformatics using Machine Learning**
+
 - 📫 How to reach me **witbyte111@gmail.com**
 
 ![naruto](https://github.com/dhundhun1111/dhundhun1111/assets/153059766/cbdd2f0c-dcaa-425d-b5d0-fd71667500fd)
