@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **witbyte111@gmail.com**
 
+![naruto](https://github.com/dhundhun1111/dhundhun1111/assets/153059766/cbdd2f0c-dcaa-425d-b5d0-fd71667500fd)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhrajit deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit deb" height="30" width="40" /></a>
@@ -29,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhundhun1111&show_icons=true&locale=en" alt="dhundhun1111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhundhun1111&" alt="dhundhun1111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhundhun1111&" alt="dhundhun1111" /></p> 
