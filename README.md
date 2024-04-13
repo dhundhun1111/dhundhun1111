@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhundhun1111" alt="dhundhun1111" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+-  🎓Currently Sophomore at **IIEST Shibpur**
+  
+-  🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Django, React, Node.js, TensorFlow, Scikit-learn, Keras**
 
