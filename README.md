@@ -9,7 +9,7 @@
   
 -  🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Django, React, Node.js, TensorFlow, Scikit-learn, Keras**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💡 I'm interested in **Bioinformatics using Machine Learning**
 
