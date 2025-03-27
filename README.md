@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SUBHRA✨</h1>
-<h3 align="center">A Heartbroken Alien Realigning his code indentations!</h3>
+<h3 align="center">An Alien Realigning his code indentations!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhundhun1111&label=Profile%20views&color=0e75b6&style=flat" alt="dhundhun1111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhundhun1111" alt="dhundhun1111" /></a> </p>
 
--  🎓Currently Sophomore at **IIEST Shibpur**
+-  🎓Currently Junior at **IIEST Shibpur**
   
 -  🔭 I’m currently working on **Machine Learning**
 
@@ -22,8 +22,6 @@
 <a href="https://linkedin.com/in/subhrajit deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit deb" height="30" width="40" /></a>
 <a href="https://kaggle.com/witbyte111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="witbyte111" height="30" width="40" /></a>
 <a href="https://instagram.com/asjadee.pvt_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asjadee.pvt_28" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dhundhun1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhundhun1111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhundhun1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhundhun1111" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dhundhun1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhundhun1111" height="30" width="40" /></a>
 <a href="https://discord.gg/subhra_028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subhra_028" height="30" width="40" /></a>
 </p>
